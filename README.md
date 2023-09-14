@@ -4,5 +4,6 @@
 * Statistical data on company revenue.
 * Customer Profiling and Needs Assessment (gender, preferences, etc.)
 * Market Segmentation and Distribution Analysis
+* Track employee sales
 ### Tool
 * Power BI
