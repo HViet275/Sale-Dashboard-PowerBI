@@ -1,5 +1,5 @@
 # Sale-Dashboard-PowerBI
-![image](https://github.com/HViet275/Sale-Dashboard-PowerBI/assets/89731710/0b826916-ce25-4160-9a9e-b154cf852b43)
+[Download PDF](https://drive.google.com/drive/folders/1ggJVgZZS6snogxgykDcM97ChKMujXu3K?usp=drive_link)
 ### Description
 * Statistical data on company revenue.
 * Customer Profiling and Needs Assessment (gender, preferences, etc.)
